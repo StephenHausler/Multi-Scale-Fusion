@@ -1,7 +1,7 @@
 # Multi-Scale-Fusion
 WIP
 Copyright: Stephen Hausler
-S. Hausler, M. Milford, "Massively Multi-Scale Fusion", unpublished, 2019.
+S. Hausler, Z. Chen, M. Hasselmo, M. Milford, "Massively Multi-Scale Fusion", unpublished, 2019.
 
 Code requires MATLAB. Currently configured for Windows, but just have to adjust the filepaths to use on Ubuntu.
 
