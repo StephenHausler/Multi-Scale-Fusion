@@ -1,5 +1,6 @@
 # Multi-Scale-Fusion
-WIP
+WIP - major revisions incoming between 020320 and 010420.
+
 Copyright: Stephen Hausler
 S. Hausler, Z. Chen, M. Hasselmo, M. Milford, "Massively Multi-Scale Fusion", unpublished, 2019.
 
