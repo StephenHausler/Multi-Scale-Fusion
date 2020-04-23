@@ -1,8 +1,8 @@
 # Multi-Scale-Fusion
-WIP - major revisions incoming between 020320 and 010420.
+WIP - further code tweaks, to make the code more portable and easier to read, will occur in future weeks.
 
 Copyright: Stephen Hausler
-S. Hausler, Z. Chen, M. Hasselmo, M. Milford, "Bio-Inspired Multi-Scale Fusion", unpublished, 2020.
+S. Hausler, Z. Chen, M. Hasselmo, M. Milford, "Bio-Inspired Multi-Scale Fusion", published in Biological Cybernetics, 2020.
 
 Code requires MATLAB. Currently configured for Windows, but just have to adjust the filepaths to use on Ubuntu.
 
