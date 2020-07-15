@@ -1,6 +1,4 @@
 # Multi-Scale-Fusion
-WIP - further code tweaks, to make the code more portable and easier to read, will occur in future weeks.
-
 Copyright: Stephen Hausler
 S. Hausler, Z. Chen, M. Hasselmo, M. Milford, "Bio-Inspired Multi-Scale Fusion", published in Biological Cybernetics, 2020.
 
