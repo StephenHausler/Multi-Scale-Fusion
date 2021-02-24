@@ -10,6 +10,6 @@ Two main code folders: Aerial_Code and Ground_Code. Aerial_Code is for Nearmaps 
 
 Run the file runAll.m to generate results on the pre-computed features. Note that with the currently provided features, only Scales 1 and 9 are available for testing. However, you are welcome to create your own features.
 
-Quite a few file paths need to be edited to use on your local machine. Will be looking into making this code more portable in the upcoming weeks.
+Quite a few file paths need to be edited to use on your local machine.
 
 Please contact me if you want the original Nearmaps dataset, as the total filesize is 140GB. 
